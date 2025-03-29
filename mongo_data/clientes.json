@@ -1,0 +1,94 @@
+[
+    {
+      "Usuario": {
+        "Nombre": "Carlos Pérez",
+        "Correo": "carlos.perez@example.com",
+        "Contraseña": "password123"
+      },
+      "SegurosContratados": [
+        {
+          "Categoria": "Seguro de Vida",
+          "Tipo": "Estándar",
+          "Cobertura": ["responsabilidad_civil", "asistencia_24h"],
+          "FechaInicio": "2024-01-15",
+          "FechaFin": "2025-01-15"
+        }
+      ],
+      "UbicacionPersona": {
+        "Latitud": 40.4168,
+        "Longitud": -3.7038
+      },
+      "UbicacionCoche": null,
+      "UbicacionResidencia": {
+        "Latitud": 40.4168,
+        "Longitud": -3.7038
+      },
+      "Calendar": []
+    },
+    {
+      "Usuario": {
+        "Nombre": "Laura Gómez",
+        "Correo": "laura.gomez@example.com",
+        "Contraseña": "securepass456"
+      },
+      "SegurosContratados": [
+        {
+          "Categoria": "Seguro de Coche",
+          "Tipo": "Estándar",
+          "Cobertura": ["lunas", "devoluciones"],
+          "FechaInicio": "2023-06-01",
+          "FechaFin": "2024-06-01"
+        }
+      ],
+      "UbicacionPersona": {
+        "Latitud": 40.4168,
+        "Longitud": -3.7038
+      },
+      "UbicacionCoche": null,
+      "UbicacionResidencia": {
+        "Latitud": 40.4168,
+        "Longitud": -3.7038
+      },
+      "Calendar": [
+        {
+          "Destino": "Barcelona",
+          "FechaInicio": "2025-03-30",
+          "FechaFin": "2025-04-01",
+          "Transporte": "AVE"
+        }
+      ]
+    },
+    {
+        "Usuario": {
+          "Nombre": "Miguel Torres",
+          "Correo": "miguel.torres@example.com",
+          "Contraseña": "!Miguel789"
+        },
+        "SegurosContratados": [
+          {
+            "Categoria": "Seguro de Hogar",
+            "Tipo": "Estándar",
+            "Cobertura": ["incendio", "robo", "daños_por_agua", "responsabilidad_civil"],
+            "FechaInicio": "2024-05-01",
+            "FechaFin": "2025-05-01"
+          }
+        ],
+        "UbicacionPersona": {
+          "Latitud": 40.4168,
+          "Longitud": -3.7038
+        },
+        "UbicacionCoche": null,
+        "UbicacionResidencia": {
+          "Latitud": 40.4168,
+          "Longitud": -3.7038
+        },
+        "Calendar": [
+          {
+            "Destino": "Tokio",
+            "FechaInicio": "2025-03-30",
+            "FechaFin": "2025-04-02",
+            "Transporte": "Avión"
+          }
+        ]
+      }
+    ]      

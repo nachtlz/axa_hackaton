@@ -1,0 +1,187 @@
+[
+  {
+    "categoria": "Seguro de Vida",
+    "tipo": "Temporal",
+    "cobertura": {
+      "fallecimiento": true,
+      "invalidez_permanente": false,
+      "enfermedades_graves": false
+    },
+    "precio": 150
+  },
+  {
+    "categoria": "Seguro de Vida",
+    "tipo": "Completo",
+    "cobertura": {
+      "fallecimiento": true,
+      "invalidez_permanente": true,
+      "enfermedades_graves": true
+    },
+    "precio": 300
+  },
+  {
+    "categoria": "Seguro de Vida",
+    "tipo": "Familiar",
+    "cobertura": {
+      "fallecimiento": true,
+      "invalidez_permanente": true,
+      "enfermedades_graves": true,
+      "cobertura_cónyuge": true,
+      "cobertura_hijos": true
+    },
+    "precio": 450
+  },
+  {
+    "categoria": "Seguro de Robo",
+    "tipo": "Personal",
+    "cobertura": {
+      "efectivo": true,
+      "documentos": true,
+      "dispositivos_electrónicos": false
+    },
+    "precio": 50
+  },
+  {
+    "categoria": "Seguro de Robo",
+    "tipo": "Estándar",
+    "cobertura": {
+      "efectivo": true,
+      "documentos": true,
+      "dispositivos_electrónicos": true,
+      "joyas": false
+    },
+    "precio": 120
+  },
+  {
+    "categoria": "Seguro de Robo",
+    "tipo": "Premium",
+    "cobertura": {
+      "efectivo": true,
+      "documentos": true,
+      "dispositivos_electrónicos": true,
+      "joyas": true,
+      "artículos_de_valor": true
+    },
+    "precio": 200
+  },
+  {
+    "categoria": "Seguro de Coche",
+    "tipo": "Básico",
+    "cobertura": {
+      "lunas": false,
+      "robos": false,
+      "devoluciones": true
+    },
+    "precio": 200
+  },
+  {
+    "categoria": "Seguro de Coche",
+    "tipo": "Estándar",
+    "cobertura": {
+      "lunas": true,
+      "robos": false,
+      "devoluciones": true
+    },
+    "precio": 350
+  },
+  {
+    "categoria": "Seguro de Coche",
+    "tipo": "Todo Riesgo",
+    "cobertura": {
+      "lunas": true,
+      "robos": true,
+      "devoluciones": true,
+      "daños_a_terceros": true,
+      "asistencia_en_carretera": true
+    },
+    "precio": 600
+  },
+  {
+    "categoria": "Seguro de Moto",
+    "tipo": "Básico",
+    "cobertura": {
+      "robos": false,
+      "daños_propios": false,
+      "responsabilidad_civil": true
+    },
+    "precio": 120
+  },
+  {
+    "categoria": "Seguro de Moto",
+    "tipo": "Completo",
+    "cobertura": {
+      "robos": true,
+      "daños_propios": true,
+      "responsabilidad_civil": true,
+      "asistencia_en_carretera": true
+    },
+    "precio": 280
+  },
+  {
+    "categoria": "Seguro de Hogar",
+    "tipo": "Básico",
+    "cobertura": {
+      "incendio": true,
+      "robo": false,
+      "daños_por_agua": true
+    },
+    "precio": 150
+  },
+  {
+    "categoria": "Seguro de Hogar",
+    "tipo": "Estándar",
+    "cobertura": {
+      "incendio": true,
+      "robo": true,
+      "daños_por_agua": true,
+      "responsabilidad_civil": true
+    },
+    "precio": 250
+  },
+  {
+    "categoria": "Seguro de Hogar",
+    "tipo": "Premium",
+    "cobertura": {
+      "incendio": true,
+      "robo": true,
+      "daños_por_agua": true,
+      "responsabilidad_civil": true,
+      "electrodomésticos": true,
+      "asistencia_24h": true
+    },
+    "precio": 400
+  },
+  {
+    "categoria": "Seguro de Viajes",
+    "tipo": "Básico",
+    "cobertura": {
+      "gastos_médicos": true,
+      "cancelación": false,
+      "pérdida_equipaje": false
+    },
+    "precio": 30
+  },
+  {
+    "categoria": "Seguro de Viajes",
+    "tipo": "Estándar",
+    "cobertura": {
+      "gastos_médicos": true,
+      "cancelación": true,
+      "pérdida_equipaje": true
+    },
+    "precio": 60
+  },
+  {
+    "categoria": "Seguro de Viajes",
+    "tipo": "Premium",
+    "cobertura": {
+      "gastos_médicos": true,
+      "cancelación": true,
+      "pérdida_equipaje": true,
+      "repatriación": true,
+      "responsabilidad_civil": true,
+      "actividades_deportivas": true
+    },
+    "precio": 90
+  }
+]

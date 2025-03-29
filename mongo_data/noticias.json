@@ -1,0 +1,56 @@
+[
+  {
+    "ubicacion": {
+      "ciudad": "Madrid",
+      "barrio": "Salamanca",
+      "pais": "España"
+    },
+    "titularNoticia": "Alerta Filomena: Tormenta de granizo severa prevista en Madrid",
+    "noticia": "Como parte de la tormenta Filomena que afecta a Madrid, se prevé una intensa tormenta de granizo en el barrio de Salamanca esta tarde. Las autoridades han activado la alerta naranja y recomiendan evitar desplazamientos. Varios puntos de la ciudad ya registran inundaciones y cortes en la M-30 y M-40"
+  },
+  {
+    "ubicacion": {
+      "ciudad": "Madrid",
+      "barrio": "Salamanca",
+      "pais": "España"
+    },
+    "titularNoticia": "Filomena provoca intensa nevada en Madrid: La ciudad queda cubierta de blanco",
+    "noticia": "La borrasca que afecta a la península ha provocado una fuerte nevada en toda la ciudad de Madrid, dejando un manto blanco sin precedentes. Los servicios de emergencia trabajan para mantener transitables las vías principales mientras continúan las precipitaciones. Se han suspendido clases y actividades al aire libre. Las autoridades piden a los ciudadanos permanecer en sus hogares salvo emergencias."
+  },
+  {
+    "ubicacion": {
+      "ciudad": "Tokio",
+      "barrio": "Kantō",
+      "pais": "Japón"
+    },
+    "titularNoticia": "Japón en alerta por riesgo de tsunami y terremotos en los próximos días",
+    "noticia": "La Agencia Meteorológica Japonesa ha emitido una advertencia urgente por el riesgo de tsunamis y terremotos en la región costera del Pacífico durante los próximos días. Las autoridades piden a los residentes que se mantengan informados y preparados."
+  },
+  {
+    "ubicacion": {
+      "ciudad": "Tokio",
+      "barrio": "Kantō",
+      "pais": "Japón"
+    },
+    "titularNoticia": "Preparativos ante posibles terremotos y tsunamis en Japón",
+    "noticia": "Durante los próximos días, Japón enfrenta un alto riesgo de actividad sísmica significativa. Los científicos han detectado actividad tectónica inusual, lo que podría desencadenar terremotos submarinos peligrosos. Se insta a la población a mantenerse informada y preparada para evacuaciones rápidas si es necesario."
+  },
+  {
+    "ubicacion": {
+      "ciudad": "Barcelona",
+      "barrio": "El Raval",
+      "pais": "España"
+    },
+    "titularNoticia": "Robo en tienda de la calle del Carme del Raval",
+    "noticia": "Se ha reportado un robo en una tienda de la calle del Carme del barrio del Raval, Barcelona. Las autoridades están investigando el incidente y piden a los testigos que se pongan en contacto con ellos."
+  },
+  {
+    "ubicacion": {
+      "ciudad": "Barcelona",
+      "barrio": "El Raval",
+      "pais": "España"
+    },
+    "titularNoticia": "Asalto a peatón en Sant Antoni Abat del Raval",
+    "noticia": "Ha ocurrido un asalto a un peatón en la calle de Sant Antoni Abat del barrio del Raval, Barcelona. Las autoridades están trabajando para identificar a los responsables y asegurar la zona."
+  }
+]

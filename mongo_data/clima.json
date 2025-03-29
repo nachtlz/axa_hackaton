@@ -1,0 +1,89 @@
+[
+  {
+    "Nombre": "Barcelona",
+    "Predicciones": {
+      "2025-03-29": {
+        "temperatura": 22.5,
+        "precipitacion": 0,
+        "humedad": 68,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-03-30": {
+        "temperatura": 23.8,
+        "precipitacion": 5,
+        "humedad": 72,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-03-31": {
+        "temperatura": 24.2,
+        "precipitacion": 0,
+        "humedad": 65,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-04-01": {
+        "temperatura": 21.7,
+        "precipitacion": 12,
+        "humedad": 74,
+        "riesgo_catastrofe": "Ninguno"
+      }
+    }
+  },
+  {
+    "Nombre": "Madrid",
+    "Predicciones": {
+      "2025-03-29": {
+        "temperatura": 18.2,
+        "precipitacion": 45,
+        "humedad": 85,
+        "riesgo_catastrofe": "Alto - Granizo"
+      },
+      "2025-03-30": {
+        "temperatura": 16.5,
+        "precipitacion": 30,
+        "humedad": 80,
+        "riesgo_catastrofe": "Moderado - Tormenta"
+      },
+      "2025-03-31": {
+        "temperatura": 14.8,
+        "precipitacion": 20,
+        "humedad": 75,
+        "riesgo_catastrofe": "Bajo - Lluvia"
+      },
+      "2025-04-01": {
+        "temperatura": 17.3,
+        "precipitacion": 5,
+        "humedad": 68,
+        "riesgo_catastrofe": "Ninguno"
+      }
+    }
+  },
+  {
+    "Nombre": "Tokio",
+    "Predicciones": {
+      "2025-03-29": {
+        "temperatura": 16.8,
+        "precipitacion": 12,
+        "humedad": 76,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-03-30": {
+        "temperatura": 17.2,
+        "precipitacion": 8,
+        "humedad": 70,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-03-31": {
+        "temperatura": 18.5,
+        "precipitacion": 0,
+        "humedad": 65,
+        "riesgo_catastrofe": "Ninguno"
+      },
+      "2025-04-01": {
+        "temperatura": 19.2,
+        "precipitacion": 35,
+        "humedad": 83,
+        "riesgo_catastrofe": "Moderado - Lluvia intensa"
+      }
+    }
+  }
+]
